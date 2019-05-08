@@ -1,5 +1,9 @@
 # Aha!
 
+## LMAO
+- [Why programming is difficult](https://joearms.github.io/#2014-02-07%20Why%20programming%20is%20difficult)
+- [Fail fast and noisely, fail politely](https://joearms.github.io/#2013-04-28%20Fail%20fast%20and%20noisely%2C%20fail%20politely)
+
 ## Write Good Code
 
 ### Design
@@ -44,6 +48,7 @@
 ### Decision Making 
 - [Technical Decision Making](https://medium.com/@copyconstruct/technical-decision-making-9b2817c18da4)
 - [The Boring Choice](http://chris.eidhof.nl/post/boring-choice/)
+- [Decisions Happened](https://www.deconstructconf.com/2018/katrina-owen-decisions-happened)
 
 ### Communication
 - [CocoaPods Communication Rules](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
