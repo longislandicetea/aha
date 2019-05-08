@@ -8,11 +8,12 @@
 - [Mental Models in API Design](https://oleb.net/blog/2017/07/mental-models-in-api-design/)
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
-### Testing
+### MISC
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-
-### Tech Debt
 - [Common Roadblocks when Thinking about Repaying Tech Debt](https://williamboles.me/common-roadblocks-when-thinking-about-repaying-tech-debt/)
+- [从CODE REVIEW 谈如何做技术](https://coolshell.cn/articles/11432.html)
+
+
 
 ## iOS
 
