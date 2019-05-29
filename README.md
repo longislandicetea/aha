@@ -49,6 +49,7 @@
 - [Technical Decision Making](https://medium.com/@copyconstruct/technical-decision-making-9b2817c18da4)
 - [The Boring Choice](http://chris.eidhof.nl/post/boring-choice/)
 - [Decisions Happened](https://www.deconstructconf.com/2018/katrina-owen-decisions-happened)
+- [No Kings: How Do You Make Good Decisions Efficiently in a Flat Organization?](https://doist.com/blog/decision-making-flat-organization/)
 
 ### Communication
 - [CocoaPods Communication Rules](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
@@ -61,4 +62,5 @@
 - [What it Feels Like to Work in a Supportive Environment for Female Engineers](https://medium.com/artsy-blog/what-it-feels-like-to-work-in-a-supportive-environment-for-female-engineers-3c994a001007)
 - [Senior Engineering and Building a Better World](https://ashfurrow.com/blog/senior-engineering-and-building-a-better-world/)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
+- [Getting Promoted Isn’t the Same as Being a Leader](https://doist.com/blog/how-to-become-a-leader/)
 
