@@ -1,25 +1,18 @@
 # Aha!
 
-## LMAO
+## LMAO || Ahaaaaaa!
 - [Why programming is difficult](https://joearms.github.io/#2014-02-07%20Why%20programming%20is%20difficult)
-- [Fail fast and noisely, fail politely](https://joearms.github.io/#2013-04-28%20Fail%20fast%20and%20noisely%2C%20fail%20politely)
+- [Inventing on Principle](https://vimeo.com/36579366)
 
-## Write Good Code
+## Software Engineering
 
 ### Design
 - [Effective Mental Models for Code and Systems](https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e)
 - [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 - [Mental Models in API Design](https://oleb.net/blog/2017/07/mental-models-in-api-design/)
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
-
-### MISC
-- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [Common Roadblocks when Thinking about Repaying Tech Debt](https://williamboles.me/common-roadblocks-when-thinking-about-repaying-tech-debt/)
-- [从CODE REVIEW 谈如何做技术](https://coolshell.cn/articles/11432.html)
-
-
-
-## iOS
+- [Fail fast and noisely, fail politely](https://joearms.github.io/#2013-04-28%20Fail%20fast%20and%20noisely%2C%20fail%20politely)
+- [Making Illegal States Unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/)
 
 ### Architecture
 - [App Architecture: iOS Application Design Patterns in Swift](https://www.amazon.com/App-Architecture-Application-Design-Patterns-ebook/dp/B07D21KRJN)
@@ -29,14 +22,20 @@
 - [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
 - [iOS Architecture: Separating logic from effects](https://jobandtalent.engineering/ios-architecture-separating-logic-from-effects-7629cb763352)
 
+### UI
+- [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
+
+### Tech Debt
+- [Common Roadblocks when Thinking about Repaying Tech Debt](https://williamboles.me/common-roadblocks-when-thinking-about-repaying-tech-debt/)
+- [Chernobyl: The True Cost Of Technical Debt](https://medium.com/better-programming/chernobyl-the-true-cost-of-technical-debt-8307e6f4d53c)
+
+### Code Review
+- [从CODE REVIEW 谈如何做技术](https://coolshell.cn/articles/11432.html)
+
 ### Multiplatform
 - [iOS "versus" JavaScript: How to Learn From Other Programming Communities](https://ashfurrow.com/blog/learning-from-other-programming-communities/)
 - [React Native at Artsy, 3 years later](https://artsy.github.io/blog/2019/03/17/three-years-of-react-native/)
 - [Why use GraphQL, good and bad reasons](https://news.ycombinator.com/item?id=17830235)
-
-
-### MISC
-- [Making Illegal States Unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/)
 
 
 ## Project Management
@@ -63,4 +62,3 @@
 - [Senior Engineering and Building a Better World](https://ashfurrow.com/blog/senior-engineering-and-building-a-better-world/)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
 - [Getting Promoted Isn’t the Same as Being a Leader](https://doist.com/blog/how-to-become-a-leader/)
-
