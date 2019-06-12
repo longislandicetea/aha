@@ -3,6 +3,7 @@
 ## LMAO || Ahaaaaaa!
 - [Why programming is difficult](https://joearms.github.io/#2014-02-07%20Why%20programming%20is%20difficult)
 - [Inventing on Principle](https://vimeo.com/36579366)
+- [Name It, and They Will Come](https://overreacted.io/name-it-and-they-will-come/)
 
 ## Software Engineering
 
@@ -26,6 +27,7 @@
 - [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 
 ### Tech Debt
+- [Technical debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84)
 - [Common Roadblocks when Thinking about Repaying Tech Debt](https://williamboles.me/common-roadblocks-when-thinking-about-repaying-tech-debt/)
 - [Chernobyl: The True Cost Of Technical Debt](https://medium.com/better-programming/chernobyl-the-true-cost-of-technical-debt-8307e6f4d53c)
 
