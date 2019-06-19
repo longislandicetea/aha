@@ -5,6 +5,12 @@
 - [Inventing on Principle](https://vimeo.com/36579366)
 - [Name It, and They Will Come](https://overreacted.io/name-it-and-they-will-come/)
 
+## Career
+- [Beyond the First Few Years](https://practicingdeveloper.com/2018/10/02/016-identity-beyond-the-first-few-years/)
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
+- [Getting Promoted Isn’t the Same as Being a Leader](https://doist.com/blog/how-to-become-a-leader/)
+- [The Traits of a Proficient Programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
+
 ## Software Engineering
 
 ### Design
@@ -62,5 +68,3 @@
 - [Psychological Safety, Risk Tolerance and High Functioning Software Teams](https://hackernoon.com/psychological-safety-risk-tolerance-and-high-functioning-software-teams-75701ed23f68)
 - [What it Feels Like to Work in a Supportive Environment for Female Engineers](https://medium.com/artsy-blog/what-it-feels-like-to-work-in-a-supportive-environment-for-female-engineers-3c994a001007)
 - [Senior Engineering and Building a Better World](https://ashfurrow.com/blog/senior-engineering-and-building-a-better-world/)
-- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
-- [Getting Promoted Isn’t the Same as Being a Leader](https://doist.com/blog/how-to-become-a-leader/)
