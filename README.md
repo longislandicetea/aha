@@ -20,6 +20,7 @@
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [Fail fast and noisely, fail politely](https://joearms.github.io/#2013-04-28%20Fail%20fast%20and%20noisely%2C%20fail%20politely)
 - [Making Illegal States Unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/)
+- [From Problem to Solution](https://www.youtube.com/watch?v=3G_ffcgRLMw)
 
 ### Architecture
 - [App Architecture: iOS Application Design Patterns in Swift](https://www.amazon.com/App-Architecture-Application-Design-Patterns-ebook/dp/B07D21KRJN)
