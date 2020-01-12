@@ -5,12 +5,6 @@
 - [Inventing on Principle](https://vimeo.com/36579366)
 - [Name It, and They Will Come](https://overreacted.io/name-it-and-they-will-come/)
 
-## Career
-- [Beyond the First Few Years](https://practicingdeveloper.com/2018/10/02/016-identity-beyond-the-first-few-years/)
-- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
-- [Getting Promoted Isn’t the Same as Being a Leader](https://doist.com/blog/how-to-become-a-leader/)
-- [The Traits of a Proficient Programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
-
 ## Software Engineering
 
 ### Design
@@ -21,6 +15,7 @@
 - [Fail fast and noisely, fail politely](https://joearms.github.io/#2013-04-28%20Fail%20fast%20and%20noisely%2C%20fail%20politely)
 - [Making Illegal States Unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/)
 - [From Problem to Solution](https://www.youtube.com/watch?v=3G_ffcgRLMw)
+- [Invariants in Code Design](https://medium.com/code-design/invariants-in-code-design-557c7864a047)
 
 ### Architecture
 - [App Architecture: iOS Application Design Patterns in Swift](https://www.amazon.com/App-Architecture-Application-Design-Patterns-ebook/dp/B07D21KRJN)
@@ -50,6 +45,13 @@
 ## Project Management
 
 - [Purpose of Estimation](https://martinfowler.com//bliki/PurposeOfEstimation.html)
+
+## Career
+
+- [Beyond the First Few Years](https://practicingdeveloper.com/2018/10/02/016-identity-beyond-the-first-few-years/)
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
+- [Getting Promoted Isn’t the Same as Being a Leader](https://doist.com/blog/how-to-become-a-leader/)
+- [The Traits of a Proficient Programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
 
 ## "Soft"? 
 
