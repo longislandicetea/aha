@@ -4,6 +4,7 @@
 - [Why programming is difficult](https://joearms.github.io/#2014-02-07%20Why%20programming%20is%20difficult)
 - [Inventing on Principle](https://vimeo.com/36579366)
 - [Name It, and They Will Come](https://overreacted.io/name-it-and-they-will-come/)
+- [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
 
 ## Software Engineering
 
