@@ -5,6 +5,7 @@
 - [Inventing on Principle](https://vimeo.com/36579366)
 - [Name It, and They Will Come](https://overreacted.io/name-it-and-they-will-come/)
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
+- [Do Things that Don't Scale](http://www.paulgraham.com/ds.html)
 
 ## Software Engineering
 
@@ -20,6 +21,7 @@
 - [REST vs. RPC: what problems are you trying to solve with your APIs?](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
 - [Swift Concurrency Manifesto](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [Swift Combine Patterns and Recipes](https://heckj.github.io/swiftui-notes/#patterns)
 
 ### Architecture
 - [App Architecture: iOS Application Design Patterns in Swift](https://www.amazon.com/App-Architecture-Application-Design-Patterns-ebook/dp/B07D21KRJN)
